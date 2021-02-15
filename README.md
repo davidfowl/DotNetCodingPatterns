@@ -1,2 +1,3 @@
-# DotNetCodingPatterns
-A collection of coding patterns in no particular order
+# .NET coding patterns
+
+A collection of interesting coding patterns in no particular order.
